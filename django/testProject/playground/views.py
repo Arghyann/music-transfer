@@ -5,3 +5,6 @@ def say_something(request):
     x=1
     y=2
     return render(request,"hello.html",{"name":"Aryan"})
+
+def room(request):
+    return render(request,"room.html")

@@ -14,7 +14,7 @@
             ],
             "django": true,
             "autoStartBrowser": false,
-            "program": "${workspaceFolder}/django/testProject/manage.py"
+            "program": "F:/music transfer attempt/music-transfer/django/testProject/manage.py"
         }
     ]
 }
